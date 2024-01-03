@@ -1,5 +1,6 @@
 // Include packages needed for this application
 const inqurier = require('inquirer');
+const fs = require('fs');
 
 // Create an array of questions for user input
 const questions = [
@@ -63,13 +64,18 @@ const questions = [
 ];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(fileName, data) {
+    fs.writeFile(fileName, data, (err) => {
+        err ? console.log(err) : console.log('Success!');
+    });
+}
 
 // Create a function to initialize app
 function init() {
     inqurier.prompt(questions)
     .then((answers) => {
         console.log(answers);
+        writeToFile('export/README.md', JSON.stringify(answers));
     })
 }
 
