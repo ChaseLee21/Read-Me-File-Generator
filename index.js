@@ -1,6 +1,7 @@
 // Include packages needed for this application
 const inqurier = require('inquirer');
 const fs = require('fs');
+const gm = require('./utils/generateMarkdown.js');
 
 // Create an array of questions for user input
 const questions = [
@@ -74,8 +75,9 @@ function writeToFile(fileName, data) {
 function init() {
     inqurier.prompt(questions)
     .then((answers) => {
-        console.log(answers);
-        writeToFile('export/README.md', JSON.stringify(answers));
+        // TODO: call generateMarkdown function and pass in data
+        let content = gm(answers);
+        writeToFile('export/README.md', content);
     })
 }
 
