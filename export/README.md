@@ -1,6 +1,7 @@
-# Readme Generator
+# test
+  [![License: GPL](https://img.shields.io/badge/License-GPL-blue.svg)](https://opensource.org/licenses/GPL)
   ## Description
-  A project that generates readme files based on user input
+  test
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
@@ -8,17 +9,17 @@
   - [Tests](#tests)
   - [License](#license)
   ## Installation
-  none
+  test
   ## Usage
-  none
+  test
   ## Contribution
-  none
+  test
   ## Tests
-  none
+  test
   ## License
-  MIT
+  GPL
   ## Questions
   For any questions feel free to connect with me on github or by email.
   ### Contact
-  GitHub: chaselee21
-  Email: chase@gmail.com
+  GitHub: test
+  Email: test
