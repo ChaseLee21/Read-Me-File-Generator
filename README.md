@@ -13,9 +13,7 @@
   ## Usage
   To use this project you have to have Node installed on your machine. Download the source code and run the command "node index.js" in the terminal
   ## Contribution
-  N/A 
-  ## Tests
-  N/A
+  For this project I worked with two classmates Will Schickler and Shelby Hutchinson
   ## License
   https://opensource.org/licenses/MIT
   Copyright <YEAR> <COPYRIGHT HOLDER>
