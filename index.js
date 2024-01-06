@@ -9,9 +9,9 @@ const gm = require('./utils/generateMarkdown.js');
 // Array of questions for user input
 const questions = [
     {
-    type: 'input',
-    message: 'Project Name? This will be the title of your README.',
-    name: 'title'
+        type: 'input',
+        message: 'Project Name? This will be the title of your README.',
+        name: 'title'
     },
     {
         type: 'input',
