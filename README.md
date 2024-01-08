@@ -2,6 +2,8 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
   ## Description
   This project is a console app created for my coding bootcamp. The goal of this project is to take in user input and generate a markdown README file that could be included in a project. To accomplish this I use node.js to execute javascript outside of a browser.
+  ## Video Instructions
+  https://drive.google.com/file/d/1F-aIWc5laac41sxmZpvBXWW98sPad9aD/view
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
