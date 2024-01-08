@@ -15,7 +15,7 @@
   ## Usage
   To use this project you have to have Node.js installed on your machine. Download the source code and create a new folder in the root of the source code called 'export'. This export folder is where the newly generated readme.md file will be created. After that in a terminal run the command npm install to download the dependencies for the project. Once installed run the command "node index.js" in the terminal to start the app. 
   ## Contribution
-  For this project I worked with two classmates Will Schickler and Shelby Hutchinson.
+  For this project I worked with two classmates Will Schickler and Shelby Hutchinson. The exact files that we worked on together are the index.js and utils/generateMarkdown.js. The code in these files are not the exact same    but just similar as we worked together via voice chat.
   ## License
   https://opensource.org/licenses/MIT
   Copyright <YEAR> <COPYRIGHT HOLDER>
