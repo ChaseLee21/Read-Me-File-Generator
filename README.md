@@ -1,7 +1,7 @@
 # Read Me File Generator
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
   ## Description
-  This project is for my coding bootcamp. The goal of this project is to take in user input and generate a markdown README file that could be included in a project.
+  This project is a console app created for my coding bootcamp. The goal of this project is to take in user input and generate a markdown README file that could be included in a project. To accomplish this I use node.js to execute javascript outside of a browser.
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
@@ -9,9 +9,9 @@
   - [Tests](#tests)
   - [License](#license)
   ## Installation
-  Must have node installed on your machine. I used Node 20 when developing
+  Must have node installed on your machine. I used Node 20 when developing.
   ## Usage
-  To use this project you have to have Node installed on your machine. Download the source code and run the command "node index.js" in the terminal
+  To use this project you have to have Node.js installed on your machine. Download the source code and create a new folder in the root of the source code called 'export'. This export folder is where the newly generated readme.md file will be created. run the command "node index.js" in the terminal to start the app. 
   ## Contribution
   For this project I worked with two classmates Will Schickler and Shelby Hutchinson
   ## License
