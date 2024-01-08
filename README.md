@@ -9,11 +9,11 @@
   - [Tests](#tests)
   - [License](#license)
   ## Installation
-  Must have node installed on your machine. I used Node 20 when developing.
+  Must have node installed on your machine. I used Node 20 when developing. You will also need to install inquirer which is an npm package used to recieve user input. To do that follow the usage instructions below.
   ## Usage
-  To use this project you have to have Node.js installed on your machine. Download the source code and create a new folder in the root of the source code called 'export'. This export folder is where the newly generated readme.md file will be created. run the command "node index.js" in the terminal to start the app. 
+  To use this project you have to have Node.js installed on your machine. Download the source code and create a new folder in the root of the source code called 'export'. This export folder is where the newly generated readme.md file will be created. After that in a terminal run the command npm install to download the dependencies for the project. Once installed run the command "node index.js" in the terminal to start the app. 
   ## Contribution
-  For this project I worked with two classmates Will Schickler and Shelby Hutchinson
+  For this project I worked with two classmates Will Schickler and Shelby Hutchinson.
   ## License
   https://opensource.org/licenses/MIT
   Copyright <YEAR> <COPYRIGHT HOLDER>
